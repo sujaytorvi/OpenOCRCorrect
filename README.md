@@ -16,9 +16,7 @@
 => updated the openocr application with few features for text editing : **bold, italic, underline, subscript & superscript**
 
 => screenshot of the update:
-x-special/nautilus-clipboard
-copy
-file:///home/sujay/Pictures/Screenshot%20from%202021-10-21%2018-07-57.png
+file:///home/sujay/Pictures/Screenshot%20from%202021-10-21%2018-07-57.png![image](https://user-images.githubusercontent.com/53830055/138280266-6d07573c-2f74-4435-9980-24098fac9f02.png)
 
 
 **The code is tested for 70% of edge cases and functions should work fine for most of the times**
